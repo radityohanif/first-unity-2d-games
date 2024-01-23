@@ -1,0 +1,11 @@
+{
+    "Mudah": {
+        "spawnRate": 5
+    },
+    "Biasa": {
+        "spawnRate": 10
+    },
+    "Sulit": {
+        "spawnRate": 15
+    }
+}
